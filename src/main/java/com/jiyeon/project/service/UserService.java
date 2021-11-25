@@ -28,4 +28,11 @@ public class UserService {
         return userList;
     }
 
+    public List<User> findByUserIdNativeQuery(Long userId){
+
+        String sql = "select * from ";
+
+        return null;
+    }
+
 }
