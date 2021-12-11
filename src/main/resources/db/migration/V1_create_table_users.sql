@@ -3,3 +3,4 @@ create table users(
 )
 
 insert into users values("ididid");
+insert into users values("id2id2id2");
